@@ -9,3 +9,7 @@ Create a CLI app to pull data from web and put it in file.
 	* --http_server flag
     - Using subprocess, run "http.server" if --http_server flag is used.
         
+
+
+### Note
+  - Each student should have folder in their name where they have their task
